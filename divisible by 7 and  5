@@ -1,3 +1,0 @@
-for numb in range(1500,2700):
-    if (numb % 7 == 0) & (numb %5 == 0):
-       print(numb)
