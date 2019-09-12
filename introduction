@@ -1,0 +1,44 @@
+                                              Python Language Introduction
+
+Python is a widely used general-purpose, high level programming language.
+It was initially designed by Guido van Rossum in 1991 and developed by Python Software Foundation.
+
+It is used for:
+   web development (server-side),
+   software development,
+   mathematics,
+   system scripting.
+   
+What can Python do?
+   Python can be used on a server to create web applications.
+   Python can be used alongside software to create workflows.
+   Python can connect to database systems. It can also read and modify files.
+   Python can be used to handle big data and perform complex mathematics.
+   Python can be used for rapid prototyping, or for production-ready software development.
+   
+Features of Python programming language:
+   1. Readable: 
+        Python is a very readable language.
+   2. Easy to Learn: 
+        Learning python is easy as this is a expressive and high level programming language,
+        which means it is easy to understand the language and thus easy to learn.          
+   3. Cross platform:
+        Python is available and can run on various operating systems such as Mac, Windows, Linux, Unix etc.
+        This makes it a cross platform and portable language.
+   4. Open Source: 
+        Python is a open source programming language.
+   5. Large standard library: 
+        Python comes with a large standard library that has some handy codes and functions which we can use while writing code in Python.
+   6. Free: 
+        Python is free to download and use. This means you can download it for free and use it in your application. 
+   
+You Do with Python:
+     1. Web development 
+     2. Machine learning 
+     3. Data Analysis
+     4. Scripting :
+            Scripting is writing small programs to automate simple tasks such as sending automated response emails etc. 
+            Such type of applications can also be written in Python programming language.
+     5. Game development
+     6.  Desktop applications/Graphical User Interface(GUI).
+     
