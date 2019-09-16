@@ -1,1 +1,40 @@
+------------------------------Python Variables------------------------------
+
+-----1) Example------
+a = 3 # int value
+b = 4 # int value
+
+print(a)
+print(b)
+
+----2) Example-------
+
+x = 10      # int value
+y = "ABC"   # str value
+
+print(x)
+print(y)
+
+-----3) Example-----
+
+p = "abc"   # str value
+q = "mno"   # str value
+
+print(p)
+print(q)
+
+------4) Example------
+
+m = "blue" # str value
+n = "red"  # str value
+
+print("Sky is "+m)      
+print("Roses are "+n)
+
+------5) Example------
+
+K="python"
+L= "is a programming language"
+
+print(K+L)
 
