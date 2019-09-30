@@ -1,0 +1,30 @@
+#-----------------Types Of Loops-------------
+
+1)  if
+2)  if.....else
+3)  else......if
+4)  while loop
+5)  for loop
+6)  Nested  if loop
+7) Nested for loop
+
+
+#---------------------------1) if ---------------------
+
+a = 33
+b = 66
+
+if b > a:
+   print("b is greater than a")
+   
+
+#--------------------------2) if.....else --------------
+
+a = 22
+b = 34
+
+if b > a :
+   print("b is greater then a")
+   
+else:
+   print("a is greater then b")
