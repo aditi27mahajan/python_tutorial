@@ -1,0 +1,24 @@
+#-------------------1-------------
+
+# Python Program to Add Two Numbers
+#Let
+a = 2   # integer variable
+b = 2   # integer variable
+c = a+b
+
+print("a+b:-",c)
+
+
+
+#-------------------2----------------
+
+# run time user input 
+# using [input()] syntax
+
+a = int(input("Enter first number:-"))
+b = int(input("Enter second number:-"))
+
+sum = a+b
+
+print("sum:-",sum)
+
